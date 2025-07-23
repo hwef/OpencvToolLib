@@ -1,0 +1,10 @@
+/*
+@datatime:2025-7-23
+@version:1.0
+@author:hong
+@description:由于opencv版本的FindContours导致程序崩溃，根据官方案例进行修改
+@development:qt5.4.1+visual studio 2013 + opencv4.4.0 + qmake
+@note:
+
+
+*/
